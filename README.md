@@ -16,4 +16,7 @@ Crud de filmes para teste em abilidades com laravel
 
 4 - php artisan migrate 
 
-4 - php artisan db:seed
+5 - php artisan db:seed
+
+6 - php artisan serve
+
